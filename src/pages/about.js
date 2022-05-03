@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function About() {
-    return "haloha, ini adalah laman about"
+    return <h1>haloha, ini adalah laman abou</h1>
 }
